@@ -1,0 +1,11 @@
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\bin\Debug\netcoreapp2.0\2.3RobotDodge.deps.json
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\bin\Debug\netcoreapp2.0\2.3RobotDodge.runtimeconfig.json
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\bin\Debug\netcoreapp2.0\2.3RobotDodge.runtimeconfig.dev.json
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\bin\Debug\netcoreapp2.0\2.3RobotDodge.dll
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\bin\Debug\netcoreapp2.0\2.3RobotDodge.pdb
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\obj\Debug\netcoreapp2.0\2.3RobotDodge.csprojAssemblyReference.cache
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\obj\Debug\netcoreapp2.0\2.3RobotDodge.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\obj\Debug\netcoreapp2.0\2.3RobotDodge.AssemblyInfoInputs.cache
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\obj\Debug\netcoreapp2.0\2.3RobotDodge.AssemblyInfo.cs
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\obj\Debug\netcoreapp2.0\2.3RobotDodge.dll
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\2.3RobotDodge\obj\Debug\netcoreapp2.0\2.3RobotDodge.pdb
